@@ -1696,6 +1696,15 @@ figure.dotted-bg:before {
   visibility: visible;
 }
 
+.liz-text-center {
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+#center-github {
+  padding: 0% 10%;
+}
+
 .close-portfolio--content {
   right: 50%;
   -webkit-transform: translateX(50%);
