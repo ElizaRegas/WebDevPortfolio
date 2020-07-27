@@ -76,7 +76,7 @@ a {
 	right: 0;
   bottom: 0px;
   z-index: 0;
-  height: 400px;
+  height: 200px;
   @include media-breakpoint-down(md) {
   	height: auto!important;
   	position: relative!important;
