@@ -8,6 +8,23 @@ body {
   position: relative;
 }
 
+.portImg {
+  border: ridge 15px white !important;
+}
+
+.socialMediaIcons {
+  width: 4vw;
+}
+#linkedIn:hover {
+  background-image: url('../images/linkedInIconPink.png');
+  z-index: 99;
+}
+#gitHub:hover {
+  background-image: url('../images/githubIconPink.png');
+}
+#twitter:hover {
+  background-image: url('../images/twitterIconPink.png');
+}
 body:before {
   content: "";
   position: absolute;
