@@ -8,6 +8,14 @@ body {
   position: relative;
 }
 
+.portImg {
+  border: ridge 15px white !important;
+}
+
+.socialMediaIcons {
+  width: 4vw;
+}
+
 body:before {
   content: "";
   position: absolute;
